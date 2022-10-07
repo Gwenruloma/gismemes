@@ -1,0 +1,1 @@
+var json_Geotag_4 = {"type":"FeatureCollection","name":"Geotag_4","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Geotag","Folder":"D:\\RLGM\\NCIP Logo.jpg"},"geometry":{"type":"Point","coordinates":[125.387984938154247,8.848300857724869]}}]}
